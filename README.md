@@ -25,3 +25,8 @@ Ejecuta `ng e2e` para test end-to-end con [Protractor](http://www.protractortest
 ## Ayuda
 
 Más ayuda sobre Angular CLI use `ng help` o [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## TAGS
+
+### 0.1 Initial import, proyecto recien creado
