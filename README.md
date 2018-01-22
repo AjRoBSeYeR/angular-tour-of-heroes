@@ -4,7 +4,7 @@ Proyecto generado con [Angular CLI](https://github.com/angular/angular-cli) vers
 
 ## Probar en servidor desarrollo
 
-Ejecutar `ng serve` desde consola comandos. Abrir en navegador `http://localhost:4200/`. Los cambios realizados en el codigo fuente se actualizan al momento.
+Ejecutar `ng serve --open` desde consola comandos. Abrir en navegador `http://localhost:4200/`. Los cambios realizados en el codigo fuente se actualizan al momento.
 
 ## Code scaffolding
 
@@ -31,3 +31,5 @@ Más ayuda sobre Angular CLI use `ng help` o [Angular CLI README](https://github
 
 ### 0.1 Initial import
 proyecto recien creado
+### 0.2 Cambios iniciales
+Cambiamos html, css y componente principal de la App
