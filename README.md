@@ -33,3 +33,5 @@ Más ayuda sobre Angular CLI use `ng help` o [Angular CLI README](https://github
 proyecto recien creado
 ### 0.2 Cambios iniciales
 Cambiamos html, css y componente principal de la App
+### 0.3 Componente Heroes
+Generar nuevo componente para editar un Heroe
