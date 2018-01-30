@@ -35,3 +35,4 @@ proyecto recien creado
 Cambiamos html, css y componente principal de la App
 ### 0.3 Componente Heroes
 Generar nuevo componente para editar un Heroe
+### 0.4 Listado de Heroes
